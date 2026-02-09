@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "polarismod:sapphire_block"
+    }
+  ],
+  "result": {
+    "item": "polarismod:sapphire",
+    "count": 9
+  }
+}

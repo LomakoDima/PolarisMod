@@ -1,0 +1,17 @@
+{
+  "item.polarismod.sapphire": "Sapphire",
+  "item.polarismod.raw_sapphire": "Raw Sapphire",
+
+  "item.polarismod.metal_detector": "Metal Detector",
+
+  "block.polarismod.sapphire_block": "Block of Sapphire",
+  "block.polarismod.raw_sapphire_block": "Block of Raw Sapphire",
+
+  "block.polarismod.sapphire_ore": "Sapphire Ore",
+  "block.polarismod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+  "block.polarismod.end_stone_sapphire_ore": "Endstone Sapphire Ore",
+  "block.polarismod.nether_sapphire_ore": "Nether Sapphire Ore",
+
+
+  "creativetab.polaris_tab": "Sapphire Polaris Tab"
+}
