@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "polarismod:block/sound_block"
+    }
+  }
+}

@@ -3,6 +3,8 @@
   "item.polarismod.raw_sapphire": "Raw Sapphire",
 
   "item.polarismod.metal_detector": "Metal Detector",
+  "item.polarismod.strawberry": "Strawberry",
+  "item.polarismod.pine_cone": "Pine Cone",
 
   "block.polarismod.sapphire_block": "Block of Sapphire",
   "block.polarismod.raw_sapphire_block": "Block of Raw Sapphire",
@@ -11,6 +13,8 @@
   "block.polarismod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
   "block.polarismod.end_stone_sapphire_ore": "Endstone Sapphire Ore",
   "block.polarismod.nether_sapphire_ore": "Nether Sapphire Ore",
+
+  "block.polarismod.sound_block": "Sound Block",
 
 
   "creativetab.polaris_tab": "Sapphire Polaris Tab"

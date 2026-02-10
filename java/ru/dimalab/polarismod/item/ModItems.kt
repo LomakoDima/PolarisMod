@@ -6,6 +6,7 @@ import net.minecraftforge.registries.DeferredRegister
 import net.minecraftforge.registries.ForgeRegistries
 import net.minecraftforge.registries.RegistryObject
 import ru.dimalab.polarismod.PolarisMod
+import ru.dimalab.polarismod.item.custom.FuelItem
 import ru.dimalab.polarismod.item.custom.MetalDetectorItem
 
 object ModItems {
@@ -27,6 +28,21 @@ object ModItems {
         ITEMS.register("metal_detector") {
             MetalDetectorItem(Item.Properties().durability(100))
         }
+
+    @JvmField
+    val STRAWBERRY: RegistryObject<Item> =
+        ITEMS.register("strawberry") {
+            Item(
+                Item.Properties().food(ModFoods.STRAWBERRY)
+            )
+        }
+
+    @JvmField
+    val PINE_CONE: RegistryObject<Item> =
+        ITEMS.register("pine_cone") {
+            FuelItem(Item.Properties(), 400)
+        }
+
 
     fun register(eventBus: IEventBus) {
         ITEMS.register(eventBus)
