@@ -11,9 +11,9 @@ import net.minecraftforge.fml.common.Mod
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext
 import org.slf4j.Logger
-import ru.dimalab.polarismod.item.ModCreativeModTabs
 import ru.dimalab.polarismod.item.ModItems
 import ru.dimalab.polarismod.block.ModBlocks
+import ru.dimalab.polarismod.item.ModCreativeModTabs
 
 @Mod(PolarisMod.MODID)
 class PolarisMod {
